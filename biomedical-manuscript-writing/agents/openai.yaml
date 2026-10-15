@@ -1,0 +1,7 @@
+interface:
+  display_name: "Biomedical Manuscript Writing"
+  short_description: "Mechanism-first biomedical manuscript writing"
+  default_prompt: "Use $biomedical-manuscript-writing to develop or revise a biomedical manuscript with rigorous story, figure, and claim logic."
+
+policy:
+  allow_implicit_invocation: true

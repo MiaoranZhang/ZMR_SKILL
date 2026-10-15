@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single-Cell Figure Workflows"
+  short_description: "Bioinformatics analysis and figure workflows"
+  default_prompt: "Use $single-cell-figure-workflows to extend this R analysis and produce manuscript-ready figures."
