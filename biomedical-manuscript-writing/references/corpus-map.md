@@ -2,49 +2,38 @@
 
 ## Purpose
 
-Use this file when a request asks for the general research-writing patterns behind this skill. It describes reusable patterns without tying them to a specific author's publication record.
+Use this map as a flexible set of patterns for biomedical research writing, not as a fixed template or as a substitute for reading the current literature in the relevant field.
 
-## Cross-Study Patterns
+## Mechanistic and cell-state studies
 
-- Start from a biologically or clinically meaningful question.
-- Use a well-matched contrast to clarify the unresolved relationship.
-- Center the story on one regulator, cell state, lineage, or niche interaction.
-- Connect discovery evidence to mechanism and then to function.
-- End with a conceptual or translational implication proportional to the evidence.
+- Center the title and narrative on a defined regulator, cell state, lineage, niche, or mechanism when the data support that focus.
+- Move from phenotype or discovery to a prioritized relationship, then to functional or mechanistic evidence.
+- State the evidence bridge explicitly; do not compress correlation, perturbation, and causation into one unsupported claim.
 
-## Common Manuscript Archetypes
+## Atlas and comparative studies
 
-### Mechanistic cell-state or niche studies
+- Foreground the biological question before the platform unless the method itself is the central contribution.
+- Distinguish shared features from species-, tissue-, or condition-specific findings.
+- Keep translational implications proportional to the populations and models studied.
 
-- Move from a phenotype or atlas to a prioritized axis and then to functional evidence.
-- Name the causal bridge directly when experiments establish it.
-- Relate the finding to disease, repair, regeneration, or therapy only within the evidence limits.
+## Microenvironment and immune studies
 
-### Atlas and comparative studies
+- Explain which cell populations interact and what evidence supports the proposed interaction.
+- Separate inferred communication from experimentally validated signaling.
+- Connect cellular heterogeneity to function or response only when supported by the study design.
 
-- Foreground the biological question before the platform.
-- Distinguish conserved features from species- or context-specific findings.
-- Present comparison, integration, prioritization, and extrapolation in that order when supported.
+## Review articles
 
-### Tumor microenvironment and immune studies
+- Open with the field's importance and unresolved complexity.
+- Organize around meaningful tensions such as dual roles, heterogeneity, plasticity, or therapeutic promise.
+- End with evidence-based challenges and future directions rather than a false sense of certainty.
 
-- Make heterogeneity and microenvironmental interactions part of the biological model.
-- Organize around a niche, signaling axis, or cellular collaboration when evidence supports that focus.
-- Treat response prediction and therapeutic relevance as claims requiring validation.
+## Reusable title moves
 
-### Reviews
+- A regulator directs a defined process through a supported mechanism.
+- An integrative analysis resolves a biological process or cell state.
+- A defined axis predicts an outcome in a specified context.
+- One cell population maintains or replenishes another in a defined model.
+- A comparative study identifies conserved and context-specific features.
 
-- Establish the importance of the field and the unresolved complexity.
-- Organize around dual roles, heterogeneity, plasticity, or therapeutic potential where appropriate.
-- End with concrete challenges and future directions without overstating certainty.
-
-## Title Patterns
-
-Potential structures include:
-
-- `X directs Y through Z in a defined context`
-- `Integrative analysis identifies an X-dependent process`
-- `A cell population maintains another compartment during a biological process`
-- `Origin or plasticity of X in a defined model system`
-
-Use strong verbs such as `directs`, `orchestrates`, `regulates`, `controls`, `replenishes`, or `sustains` only when the evidence supports them. The logic chain matters more than platform-first wording.
+These are structural patterns only. Select wording from the actual question, evidence, and scope; do not imitate any individual author's phrasing or add a platform name without a reason.

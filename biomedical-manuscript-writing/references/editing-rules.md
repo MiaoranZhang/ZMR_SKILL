@@ -15,12 +15,14 @@ The manuscript should read as a scientific argument rather than a project report
 Review the following terms in context rather than banning them mechanically:
 
 - `threshold`: retain for a real quantitative or prespecified decision threshold; otherwise use the actual criterion, cutoff, inclusion rule, or biological boundary instead of a metaphorical hurdle.
-- `freeze` or `frozen`: retain only when a locked model, database release, or prespecified analysis state is methodologically important; otherwise use `prespecified`, `finalized`, `fixed`, or omit the project-status detail.
+- `freeze` or `frozen`: retain only for a documented, methodologically important lock or release. Otherwise name the actual object, such as analysis file records, gene categories, or a gene set, and omit the project-status detail. Do not substitute `prespecified`, `fixed`, or `finalized` unless the timing or fixed status is supported by records.
 - `feature panel`: replace with the scientifically exact object, such as `feature set`, `selected variables`, `marker set`, `gene signature`, `antibody panel`, or `predictor set`.
 - `troubleshooting guide`: omit from article prose. If a diagnostic procedure is essential for reproducibility, describe it as quality control, sensitivity analysis, validation, or a prespecified decision procedure in Methods.
 - `reported` or `the reported ...`: use only for genuine attribution to prior literature or an explicitly presented estimate. Prefer a direct subject and verb for the present study instead of bureaucratic constructions such as `the reported results showed`.
 
 Also remove neighboring workflow idioms such as `pipeline checkpoint`, `gate`, `locked version`, `handoff`, `failure mode`, and `debugging` when they function as project-management metaphors. Preserve them when they are established technical terms and no more precise scientific term exists.
+
+For computational manuscripts, distinguish internal record counts from experiments, file availability from checksum verification, and assessment criteria from software status codes. Read [Computational manuscript language](computational-language.md) for decision rules. Preserve genuine technical uses, including flow-cytometry gating, numerical cutoffs, data provenance, and SHA256 checksums; do not apply a global word ban.
 
 ## Minimal-edit mode
 

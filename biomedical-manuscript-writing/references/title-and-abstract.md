@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use this file when drafting or revising titles and abstracts with clear story and claim logic. Examples inform the patterns but should not be mechanically imitated.
+Use this file when drafting or revising titles and abstracts with clear story and calibrated claims. Reference patterns should not be mechanically imitated.
 
 ## Title Rules
 

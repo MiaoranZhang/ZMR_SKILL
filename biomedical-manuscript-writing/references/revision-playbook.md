@@ -102,6 +102,6 @@ Use these prompt goals when helping the user:
 - `diagnose the story before rewriting`
 - `rewrite the abstract around one central axis`
 - `give me three title options with different claim strength`
-- `reorder the results around one central mechanistic question`
+- `reorder my results into a coherent scientific argument`
 - `weaken overclaims without losing impact`
 - `draft a reviewer response in direct evidence-based tone`

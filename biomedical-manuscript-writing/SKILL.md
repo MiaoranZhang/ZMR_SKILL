@@ -12,7 +12,7 @@ Treat a manuscript as a scientific argument, not a project log. Build the paper 
 ## Default stance
 
 - Lead with the verdict, then the reason and the best next action.
-- Evaluate proposals objectively; do not agree by default.
+- Evaluate the user's proposal objectively; do not agree by default.
 - Prefer one strong mechanistic sentence over several vague findings.
 - Distinguish discovery, support, mechanism, causality, and translation.
 - Rank alternatives instead of returning an unprioritized idea list.
@@ -67,6 +67,7 @@ Read only the references needed for the current request:
 - Claim strength, causal verbs, or translational scope: [references/claim-control.md](references/claim-control.md)
 - Figure-set or panel review: [references/figure_architecture.md](references/figure_architecture.md)
 - Editing, manuscript-register checks, defensive-writing checks, resubmission, cover letters, or reviewer responses: [references/revision-playbook.md](references/revision-playbook.md) and [references/editing-rules.md](references/editing-rules.md)
+- Computational-workflow wording, internal status labels in figures, or reviewer concerns about audit/registration language: [references/computational-language.md](references/computational-language.md). Apply its checks while drafting relevant Methods, Results, and legends, not only after peer review.
 - Journal fit or identifying the manuscript's real blocker: [references/journal-positioning.md](references/journal-positioning.md)
 - Requests specifically asking for the source style or its corpus basis: [references/corpus-map.md](references/corpus-map.md)
 
@@ -81,6 +82,7 @@ Read only the references needed for the current request:
 - In figure legends, panel labels such as `a`, `b`, `c`, and `d` must match the labels printed in the figure exactly, including capitalization and numbering format. Never silently change `a` to `A`, `A` to `a`, or otherwise normalize the figure's labels.
 - Remove project-management and diagnostic-manual wording from manuscript prose, including metaphorical uses of `threshold`, `freeze`, `feature panel`, `troubleshooting guide`, and bureaucratic `reported` constructions. Retain a term only when it is the technically correct description of a reproducible method, and then define it precisely.
 - Prefer affirmative scope statements over defensive negation. Do not insert sentences such as `But this is not an equivalence test` or `However, this application does not support a universally invariant treatment-comparison magnitude` into Results unless the distinction is required to interpret the reported analysis correctly.
+- Use `registered`, `preregistered`, and `prespecified` only with evidence for the stated registration or timing; an internal analysis list is not a public preregistration. Replace project status codes with the actual scientific object, criterion, or observation while retaining numbers, unmet criteria, and material scope. Wording changes do not establish reproducibility.
 - Do not invent results, mechanisms, advantages, or tradeoff explanations. Narrow the claim when evidence is missing.
 
 ## Domain pairing

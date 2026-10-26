@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use this file when outlining or drafting a biomedical research manuscript.
+Use this file when outlining or drafting biomedical manuscript sections.
 
 ## Introduction Logic
 
@@ -70,7 +70,7 @@ Preferred headings usually sound interpretive rather than merely procedural.
 
 Better:
 
-- `A candidate regulator promotes a disease-relevant phenotype through a defined downstream pathway`
+- `HOXC9 promotes OSCC invasion through the ITGA6 PI3K Akt MMP13 axis`
 - `Macrophage-derived IL-1 activates fibroblast progenitors during oral wound repair`
 
 Worse:

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use this file to build a clear, evidence-led scientific argument for a biomedical manuscript.
+Use this file to build a coherent scientific argument from the study's own question and evidence.
 
 ## Default Story Spine
 
@@ -53,11 +53,11 @@ Rule:
 
 The papers usually become sharper once one of these is named clearly:
 
-- one regulator or signaling component
-- one cell state or lineage
-- one cellular source
-- one origin claim
-- one interaction axis
+- one regulator, such as HOXC9 or TXNIP
+- one cell state, such as Sfrp2 high progenitors
+- one cellular source, such as macrophage-derived IL-1
+- one origin claim, such as glial origin
+- one interaction axis, such as RARRES2/CCRL2/CMKLR1
 
 If the draft keeps introducing new candidates late, the logic is still unstable.
 
