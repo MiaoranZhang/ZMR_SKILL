@@ -1,0 +1,6 @@
+interface:
+  display_name: "zmr GenomeStudy SKILL"
+  short_description: "GWAS/QTL, Mendelian randomization, SMR and coloc"
+  default_prompt: "Use $zmr-genome-study to build a reproducible GWAS/QTL analysis with appropriate MR, SMR/HEIDI, colocalization, and evidence reporting."
+policy:
+  allow_implicit_invocation: true
